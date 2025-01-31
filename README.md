@@ -12,8 +12,11 @@ The script uses **memory-mapped files (`mmap`)** to enable **fast searching with
 ✅ **Stores Logs in `/output/` Directory** → Each extraction is saved separately.
 
 ## 🚀 How to Run
+download and put log files in logs folder 
+
+
 ### 1️⃣ **Clone the Repository**
 ```sh
 git clone <your-forked-repo-url>
-cd file
-put log files in logs 
+cd file name 
+
